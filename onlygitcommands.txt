@@ -10,6 +10,8 @@ to commit	- git commit -m "commit message"
 Push:
 to push		- git push -u origin <branch name>
 
+this command is used to push the code to a new branch in github in oneline 
+
 pull:
 to pull		- git pull
 
