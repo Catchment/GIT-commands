@@ -1,0 +1,42 @@
+to initialize 	- git init
+
+Add:
+to add		- git add
+to add all	- git add .
+
+Commit:
+to commit	- git commit -m "commit message"
+
+Push:
+to push		- git push -u origin <branch name>
+
+pull:
+to pull		- git pull
+
+branch:
+to create a branch - git branch <new branch name>
+
+checkout or switch branch:
+to checkout only      	  - git checkout <branch name>
+
+to checkout or switch
+to branch after creating  - git checkout -b <new branch name>
+in oneline cmd		  
+
+Merge types:
+merge:
+to merge the commit 
+another branch without 	- git merge <branch name to be merged>
+commit logs
+
+rebase:
+to merge all the commit - git rebase <branch name to be merged>
+of the branch with 
+commit logs to another
+branch 
+
+cherry-pick:
+to merge the particular
+commit with another 	- git cherry-pick <commit ID>
+branch with the use of 
+commit ID
