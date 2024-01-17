@@ -9,6 +9,8 @@ to commit	- git commit -m "commit message"
 
 Push:
 to push		- git push -u origin <branch name>
+--this oneline command is used to push code to the new branch in github
+before we create in working directory
 
 pull:
 to pull		- git pull
