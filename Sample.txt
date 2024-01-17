@@ -16,7 +16,7 @@ Git Flow:
 
 8)run,"cmd:git push -u origin <name of the branch>" eg) git push -u origin master
 
-9)
+9)try to commit your work everyday
 
 
 
