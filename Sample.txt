@@ -20,6 +20,10 @@ Git Flow:
 
 10)try to commit your work everyday
 
+11)check the git status before starting any work; cmd:git status
+
+12)cmd: git branch or git branch -a;  to check the branch we are in
+
 
 
 
