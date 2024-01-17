@@ -1,4 +1,22 @@
 Git Flow:
 
+1)create a repo in github
+2)choose the project folder which we need to push into RR
+3)copy the folder path and use that in cmd prompt to start git codings
+	eg) cd <folder path>
+
+4)run, "cmd:git init" to initialize the git meaning informing the git about the folder to be pushed
+
+5)run, "cmd:git add <filename> or git add ." to add the file to staging area
+
+6)run, "cmd:git commit -m "commit message" " to commit to local repo
+
+7)make a connection to RR using the following the cmd,
+	cmd : git remote add origin <git repo path>
+
+8)run,"cmd:git push -u origin <name of the branch>" eg) git push -u origin master
+
+9)
+
 
 
